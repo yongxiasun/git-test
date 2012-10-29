@@ -4,3 +4,5 @@ Updating README with new information.
 Sharing remotely is fun and easy.
 Sharing again!
 Feature1
+Feature2
+Feature2 changes
